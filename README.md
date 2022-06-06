@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrankAmsterdam
 - 👀 I’m interested in TestAutomation
-- 🌱 I’m currently learning Katalon Studio
+- 🌱 I’m currently learning Cypress 10
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fjp59adam@outlook.com
 
